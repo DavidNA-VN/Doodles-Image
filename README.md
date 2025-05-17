@@ -35,9 +35,6 @@ The goal of this project is to demonstrate how deep learning models can be used 
 - Improve accuracy through more data and model fine-tuning.
 - Optimize UI for mobile use.
 
-## License
-This project is licensed under the MIT License.
-
 ---
 Feel free to contribute, suggest improvements, or fork the project!
 
