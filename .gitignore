@@ -1,0 +1,52 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Dataset and generated data
+QuickDrawDataset/
+QuickDrawDataset.zip
+data/
+datasets/
+
+# Model checkpoints and training artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+history.pkl
+runs/
+outputs/
+wandb/
+lightning_logs/
+
+# Generated prediction images
+images/Temp.png
+
+# Reports and private submission documents
+báo cáo/
+bao cao/
+reports/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
